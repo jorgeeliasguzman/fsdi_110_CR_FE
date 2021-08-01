@@ -1,0 +1,15 @@
+.catalog-page{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+.catalog-page h3{
+    width: 100%;
+}
+.catalog-header{
+    background-color: rgba(199, 252, 199, 0.7500);
+    padding: .5rem 0;
+    width: 100%;
+}
